@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 import Image from "next/image";
 import Pic1 from "./images/iphone-14pic.jpg";
 

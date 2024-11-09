@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 import Image from "next/image";
 import Pic2 from "./Img/iphone-pic2.jpg";
 export default function About (){

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+
 import gold from "./pics/iPhone14Progold.jpg";
 import white from "./pics/iphone11-white.png";
 import purple from "./pics/iphone-15-purple.jpg";
